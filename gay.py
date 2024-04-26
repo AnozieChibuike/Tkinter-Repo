@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-import random
+import random 
 
 def no():
     messagebox.showinfo(' ','Thanks bro')
